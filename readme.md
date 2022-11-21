@@ -18,6 +18,14 @@ Unity Game Engine and C#
 
 ## Lessons Learned:
 
+### Pixel art settings 
+Set sprite mode to multiple if you are using a sprite sheet. 
+
+Set filter mode to point for pixel art 
+Pixel per units set to 16
+Set Compression to None for pixel art. 
+
+
 
 
 
