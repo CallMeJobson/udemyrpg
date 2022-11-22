@@ -28,7 +28,7 @@ Set Compression to None for pixel art.
 ### Chopping up sprite sheet
 use grid by cell size in the sprite editor to cut up the sprite sheet. 
 Added two new sorting layers. Player and background.
-The items on the bottom of the list will appear on the top layer. 
+The items on the bottom of the  sorting layer list will appear on the top. 
 
 
 
