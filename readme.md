@@ -20,11 +20,15 @@ Unity Game Engine and C#
 
 ### Pixel art settings 
 Set sprite mode to multiple if you are using a sprite sheet. 
-
-Set filter mode to point for pixel art 
-Pixel per units set to 16
+Set filter mode to point for pixel art.
+Pixel per units set to 16.
 Set Compression to None for pixel art. 
 
+
+### Chopping up sprite sheet
+use grid by cell size in the sprite editor to cut up the sprite sheet. 
+Added two new sorting layers. Player and background.
+The items on the bottom of the list will appear on the top layer. 
 
 
 
